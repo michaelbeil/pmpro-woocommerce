@@ -5,6 +5,7 @@ Requires at least: 5.2
 Tested up to: 6.2
 Requires PHP: 5.6
 Stable tag: 1.7.6
+WC tested up to: 7.8 
 
 Integrates Paid Memberships Pro with WooCommerce to offer a global members-only discount, set member price by product, or sell membership as a product.
 
